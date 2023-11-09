@@ -1,0 +1,36 @@
+body {
+ margin: 20px;
+ } 
+h1{ 	font-style:georgia;
+ 	color:blue; 
+	text-align:center; 
+	background-color:lightgray;
+ 	font-size :24px; 
+	letter-spacing:0.3em;
+ 	word-spacing:0.5em; 
+}
+ h2{ 
+	font-style:georgia; 
+	color:darkred; 
+	letter-spacing:0.1em; 
+	font-size:18px; 
+}
+.data{
+display:inline-block;
+margin-top:5px;
+margin-bottom:5px;
+font-size:18px;
+}
+.left{
+font-style:italic;
+display:inline;
+text-align:left;
+}
+.right{
+text-align:right;
+display:inline;
+}
+.grade{
+text-align:right;
+width:75%;
+}
